@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "next": "latest",
+    "node-fetch": "^3.3.2",
     "react": "latest",
     "react-dom": "latest"
   },
