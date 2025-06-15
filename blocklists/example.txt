@@ -1,0 +1,4 @@
+# Beispiel Blockliste
+ads.example.com
+tracker.example.org
+malware.test 
